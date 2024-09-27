@@ -1,0 +1,231 @@
+[I 2024-08-21 01:30:30.362 ServerApp] Extension package jupyter_lsp took 0.1092s to import
+[I 2024-08-21 01:30:33.132 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-21 01:30:33.141 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-21 01:30:33.148 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.178 JupyterNotebookApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.179 JupyterNotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:30:33.185 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2024-08-21 01:30:33.185 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-21 01:30:33.461 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-21 01:30:33.845 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 2024-08-21 01:30:33.845 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 2024-08-21 01:30:33.846 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-21 01:30:33.852 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-21 01:30:33.854 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-21 01:30:33.863 LabApp] JupyterLab extension loaded from /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/lib/python3.10/site-packages/jupyterlab
+[I 2024-08-21 01:30:33.863 LabApp] JupyterLab application directory is /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/share/jupyter/lab
+[I 2024-08-21 01:30:33.864 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-21 01:30:33.901 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-21 01:30:33.905 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-21 01:30:33.905 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-08-21 01:30:33.905 ServerApp] Serving notebooks from local directory: /hpc2hdd/home/simonsyguo/junjiejiang/algorithm/FinLLM_loan_pred
+[I 2024-08-21 01:30:33.905 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-08-21 01:30:33.906 ServerApp] http://localhost:8889/tree
+[I 2024-08-21 01:30:33.906 ServerApp]     http://127.0.0.1:8889/tree
+[I 2024-08-21 01:30:33.908 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-08-21 01:30:33.974 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2024-08-21 01:30:34.770 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-21 01:32:05.286 ServerApp] Interrupted...
+[I 2024-08-21 01:32:42.535 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-21 01:32:42.543 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-21 01:32:42.549 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.552 JupyterNotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:32:42.555 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2024-08-21 01:32:42.555 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-21 01:32:42.739 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-21 01:32:42.760 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 2024-08-21 01:32:42.760 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 2024-08-21 01:32:42.761 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-21 01:32:42.763 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-21 01:32:42.764 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-21 01:32:42.765 LabApp] JupyterLab extension loaded from /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/lib/python3.10/site-packages/jupyterlab
+[I 2024-08-21 01:32:42.765 LabApp] JupyterLab application directory is /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/share/jupyter/lab
+[I 2024-08-21 01:32:42.766 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-21 01:32:42.791 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-21 01:32:42.795 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-21 01:32:42.795 ServerApp] Serving notebooks from local directory: /hpc2hdd/home/simonsyguo/junjiejiang/algorithm/FinLLM_loan_pred
+[I 2024-08-21 01:32:42.795 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-08-21 01:32:42.795 ServerApp] http://localhost:6988/tree
+[I 2024-08-21 01:32:42.795 ServerApp]     http://127.0.0.1:6988/tree
+[I 2024-08-21 01:32:42.796 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2024-08-21 01:32:42.976 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-21 01:33:04.841 ServerApp] Kernel started: 43e7288d-64c8-4071-903d-ef870f864360
+[I 2024-08-21 01:33:06.645 ServerApp] Connecting to kernel 43e7288d-64c8-4071-903d-ef870f864360.
+[I 2024-08-21 01:33:06.651 ServerApp] Connecting to kernel 43e7288d-64c8-4071-903d-ef870f864360.
+[I 2024-08-21 01:33:06.754 ServerApp] Connecting to kernel 43e7288d-64c8-4071-903d-ef870f864360.
+[I 2024-08-21 01:33:26.526 ServerApp] Kernel restarted: 43e7288d-64c8-4071-903d-ef870f864360
+[I 2024-08-21 01:33:26.564 ServerApp] Starting buffering for 43e7288d-64c8-4071-903d-ef870f864360:4ba79196-fbcb-4404-b88a-62961cb59fac
+[I 2024-08-21 01:33:26.639 ServerApp] Connecting to kernel 43e7288d-64c8-4071-903d-ef870f864360.
+[I 2024-08-21 01:33:26.640 ServerApp] Restoring connection for 43e7288d-64c8-4071-903d-ef870f864360:4ba79196-fbcb-4404-b88a-62961cb59fac
+[I 2024-08-21 01:35:04.310 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:37:04.502 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:39:04.687 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:41:04.869 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:43:05.285 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:44:40.419 ServerApp] Interrupted...
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 2024-08-21 01:45:04.555 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-21 01:45:04.562 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-21 01:45:04.569 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-21 01:45:04.571 JupyterNotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.572 JupyterNotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 01:45:04.575 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2024-08-21 01:45:04.575 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-21 01:45:04.755 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-21 01:45:04.774 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 2024-08-21 01:45:04.774 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 2024-08-21 01:45:04.774 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-21 01:45:04.776 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-21 01:45:04.777 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-21 01:45:04.779 LabApp] JupyterLab extension loaded from /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/lib/python3.10/site-packages/jupyterlab
+[I 2024-08-21 01:45:04.779 LabApp] JupyterLab application directory is /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/share/jupyter/lab
+[I 2024-08-21 01:45:04.779 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-21 01:45:04.805 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-21 01:45:04.809 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-21 01:45:04.809 ServerApp] Serving notebooks from local directory: /hpc2hdd/home/simonsyguo/junjiejiang/algorithm/FinLLM_loan_pred
+[I 2024-08-21 01:45:04.809 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-08-21 01:45:04.809 ServerApp] http://localhost:6988/tree
+[I 2024-08-21 01:45:04.809 ServerApp]     http://127.0.0.1:6988/tree
+[I 2024-08-21 01:45:04.809 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2024-08-21 01:45:04.984 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-21 01:45:12.525 ServerApp] Kernel started: 3485908f-37ea-4ae7-b92d-575a55c5627a
+[I 2024-08-21 01:45:12.995 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 01:45:13.002 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 01:45:13.079 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 01:45:27.004 ServerApp] Kernel restarted: 3485908f-37ea-4ae7-b92d-575a55c5627a
+[I 2024-08-21 01:45:27.044 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:129e4e22-8332-48c1-8731-b76076b5f697
+[I 2024-08-21 01:45:27.116 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 01:45:27.116 ServerApp] Restoring connection for 3485908f-37ea-4ae7-b92d-575a55c5627a:129e4e22-8332-48c1-8731-b76076b5f697
+[I 2024-08-21 01:47:12.425 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:49:12.619 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:51:12.796 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:53:13.008 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:55:14.627 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:57:14.811 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 01:59:15.122 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:01:15.491 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:03:15.700 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:05:16.026 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:07:16.285 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:09:16.689 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:11:16.950 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:13:17.446 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:15:17.679 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:17:18.831 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:19:19.312 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:21:19.550 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:23:19.819 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:25:24.192 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:27:24.744 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:29:25.498 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:31:25.777 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:33:32.743 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:35:36.885 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:37:37.411 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:39:38.139 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:41:40.559 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:43:48.918 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:45:49.740 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:47:50.212 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:49:51.043 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:51:51.400 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:53:51.936 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:55:53.265 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:57:53.698 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 02:59:54.347 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:01:54.806 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:04:25.897 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:10:05.476 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:12:07.365 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:14:07.892 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:16:08.868 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:18:09.677 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:20:10.980 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:22:12.067 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:24:12.799 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:26:15.094 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:28:15.563 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:30:17.070 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 03:31:57.044 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:129e4e22-8332-48c1-8731-b76076b5f697
+[I 2024-08-21 08:04:10.962 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:04:10.963 ServerApp] Discarding 6987 buffered messages for 3485908f-37ea-4ae7-b92d-575a55c5627a:129e4e22-8332-48c1-8731-b76076b5f697
+[I 2024-08-21 08:04:12.304 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:06:49.947 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-21 08:06:49.954 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-21 08:06:49.960 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.963 JupyterNotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-08-21 08:06:49.967 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.
+[I 2024-08-21 08:06:49.967 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-21 08:06:50.178 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-21 08:06:50.199 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 2024-08-21 08:06:50.199 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 2024-08-21 08:06:50.200 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-21 08:06:50.202 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-21 08:06:50.203 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-21 08:06:50.204 LabApp] JupyterLab extension loaded from /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/lib/python3.10/site-packages/jupyterlab
+[I 2024-08-21 08:06:50.204 LabApp] JupyterLab application directory is /hpc2hdd/home/simonsyguo/miniconda3/envs/finetune_jjj/share/jupyter/lab
+[I 2024-08-21 08:06:50.205 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-21 08:06:50.231 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-21 08:06:50.235 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-21 08:06:50.235 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-08-21 08:06:50.235 ServerApp] Serving notebooks from local directory: /hpc2hdd/home/simonsyguo/junjiejiang/algorithm/FinLLM_loan_pred
+[I 2024-08-21 08:06:50.235 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-08-21 08:06:50.235 ServerApp] http://localhost:8889/tree
+[I 2024-08-21 08:06:50.235 ServerApp]     http://127.0.0.1:8889/tree
+[I 2024-08-21 08:06:50.235 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-08-21 08:06:50.239 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2024-08-21 08:06:50.413 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-21 08:06:54.639 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:36222851-f3d9-4e56-9cb8-b815dbe43168
+[I 2024-08-21 08:06:55.932 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:06:55.933 ServerApp] Discarding 1 buffered messages for 3485908f-37ea-4ae7-b92d-575a55c5627a:36222851-f3d9-4e56-9cb8-b815dbe43168
+[I 2024-08-21 08:06:56.757 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:10:56.128 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:35:53.152 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:37:54.038 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:39:54.392 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:41:54.758 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:43:33.456 ServerApp] Kernel restarted: 3485908f-37ea-4ae7-b92d-575a55c5627a
+[I 2024-08-21 08:43:33.487 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:79df3272-bd9d-4880-93e1-9e0958578d9c
+[I 2024-08-21 08:43:33.545 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:43:33.545 ServerApp] Restoring connection for 3485908f-37ea-4ae7-b92d-575a55c5627a:79df3272-bd9d-4880-93e1-9e0958578d9c
+[I 2024-08-21 08:43:54.971 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:45:55.144 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:49:55.610 ServerApp] Saving file at /finetune.ipynb
+[I 2024-08-21 08:57:03.780 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:79df3272-bd9d-4880-93e1-9e0958578d9c
+[I 2024-08-21 08:57:11.545 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:57:11.838 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:116cba5e-f1c6-4222-bba2-e1176e34be0f
+[I 2024-08-21 08:57:17.029 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:57:17.238 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:9dca1f34-2e3d-49b3-aaca-52b6b6abf1d4
+[I 2024-08-21 08:57:17.507 ServerApp] Connecting to kernel 3485908f-37ea-4ae7-b92d-575a55c5627a.
+[I 2024-08-21 08:57:25.969 ServerApp] Starting buffering for 3485908f-37ea-4ae7-b92d-575a55c5627a:4266578e-e093-4d8b-a3d9-e601f3b1d647
+[I 2024-08-21 08:57:41.870 ServerApp] Kernel shutdown: 3485908f-37ea-4ae7-b92d-575a55c5627a
