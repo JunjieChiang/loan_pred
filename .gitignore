@@ -1,3 +1,7 @@
+__pycache__/
 *results/
 *outputs/
 *model/
+.idea/
+.ipynb_checkpoints/
+nohup.out
